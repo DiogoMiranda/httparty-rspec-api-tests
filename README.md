@@ -1,5 +1,4 @@
 # httparty-rspec-api-tests
-# httparty_tests
 API Tests
 
 ## To run
